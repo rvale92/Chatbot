@@ -1,0 +1,9 @@
+tunnel: 5b9d65c9-38bb-4fb2-9be7-1d28d3522704
+credentials-file: /Users/reimundovalentin/.cloudflared/5b9d65c9-38bb-4fb2-9be7-1d28d3522704.json
+
+ingress:
+  - hostname: ai-tutor-n8n.trycloudflare.com
+    service: http://localhost:5678
+    originRequest:
+      noTLSVerify: true
+  - service: http_status:404 
