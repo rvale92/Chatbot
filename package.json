@@ -2,7 +2,7 @@
   "name": "ai-tutor-project",
   "version": "1.0.0",
   "description": "AI Tutor integration for certification study platform",
-  "homepage": "https://reimundovalentin.github.io/ai-tutor-project",
+  "homepage": "https://rvale92.github.io/Chatbot",
   "main": "src/index.tsx",
   "scripts": {
     "start": "react-scripts start",

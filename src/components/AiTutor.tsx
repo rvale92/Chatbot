@@ -1,9 +1,8 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { marked } from 'marked';
 
-// IMPORTANT: Replace this URL with your actual n8n webhook URL
-// It should look something like: https://your-n8n-instance.com/webhook/xyz...
-const N8N_WEBHOOK_URL = "https://1590-104-208-219-243.ngrok-free.app/webhook/f3eebdec-85ac-4968-9d80-26e06d02afa4";
+// IMPORTANT: Replace this URL with your Supabase Edge Function URL
+const N8N_WEBHOOK_URL = "https://mkivdveacuoazqgaigah.functions.supabase.co/ai-chatbot-function";
 
 interface Message {
     sender: string;
