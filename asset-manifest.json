@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/ai-tutor-project/static/js/main.5a7d7dc3.js",
-    "index.html": "/ai-tutor-project/index.html",
-    "main.5a7d7dc3.js.map": "/ai-tutor-project/static/js/main.5a7d7dc3.js.map"
+    "main.js": "/Chatbot/static/js/main.5a7d7dc3.js",
+    "index.html": "/Chatbot/index.html",
+    "main.5a7d7dc3.js.map": "/Chatbot/static/js/main.5a7d7dc3.js.map"
   },
   "entrypoints": [
     "static/js/main.5a7d7dc3.js"
